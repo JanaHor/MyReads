@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is app helps you to organize your books into 3 shelfs:
+This app helps you to organize your books into 3 shelfs:
 Currently Reading
 Want To Read
 Read
@@ -8,7 +8,7 @@ Read
 When you select a different shelf, the book moves there. In search page(/search), you can get the list of books as by your input keywords.
 
 ## How to get started
-1. node.js + npm is required - you can download it from 
+1. node.js + npm is required - you can download it from [nodejs.org](https://nodejs.org)
 2. git clone or download zip file
 3. unzip into "your_folder"
 4. cd your_folder
